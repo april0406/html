@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<!-- tag정렬 ctrl+shift+f -->
+<body>
+	<h2>표 보기</h2>
+	<P>
+	<p>
+	<table>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+		<tr></tr>
+	</table>
+
+</body>
+</html>

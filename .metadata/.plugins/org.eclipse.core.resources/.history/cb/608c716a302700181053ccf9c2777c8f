@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div id = "header">
+		<h2>나의 홈페이지</h2>
+	</div>
+	<div id = "content">
+		<p>본문
+		<p>본문
+		<p>본문
+		<p>본문
+		<p>본문
+	</div>
+	<div id = "footer">
+	</div>
+</body>
+</html>

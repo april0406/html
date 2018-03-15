@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<!-- tag정렬 ctrl+shift+f -->
+<body>
+	<h2>표 보기</h2>
+	<P>
+	<p>
+	<table border="1">
+		<tr>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>우리나라</td>
+			<td>대한민국</td>
+		</tr>
+		<tr>
+			<td>우리나라대한민국</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"><a href="http://naver.com/">네이버가기</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Republic of Korea</td>
+		</tr>
+		<!-- <td>는 필수 tag 
+		             rowspan colspan 같은 옵션을 추가해서
+		             모양 형식등을 변경해서 사용할수 있다.  -->
+		<tr><td rowspan="2">KOREA</td><td>대한민국</td></tr>
+		<tr><td>우리나라</td></tr>
+		
+	</table>
+</body>
+</html>

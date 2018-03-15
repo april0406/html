@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<!-- tag정렬 ctrl+shift+f -->
+<body>
+	<h2>표 보기</h2>
+	<P>
+	<p>
+	<table>
+		<tr><td>1</td><td>2</td></tr>
+		<tr><td>우리나라</td><td>대한민국</td></tr>
+		<tr><td>우리나라대한민국</td><td></td></tr>
+		<tr></tr>
+		<tr></tr>
+	</table>
+
+</body>
+</html>
